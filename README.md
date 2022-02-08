@@ -34,4 +34,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=premier213&" alt="premier213" /></p>
 
-[![meysam's github activity graph](https://activity-graph.herokuapp.com/graph?username=premier213)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Meysam's github activity graph](https://activity-graph.herokuapp.com/graph?username=premier213&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+

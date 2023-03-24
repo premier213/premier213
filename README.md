@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=premier213" alt="premier213" /></a> </p>.
 
-- 🌱 I’m currently learning **c#**
+- 🌱 I’m currently learning **PYTHON**
 
 - 📫 How to reach me **premierp1213@gmail.com**
 

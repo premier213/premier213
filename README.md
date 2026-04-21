@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm meysam</h1>
 
-- 📫 How to reach me **premierp1213@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/premier213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="premier213" height="30" width="40" /></a>
-</p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=premier213&show_icons=true&locale=en&layout=compact" alt="premier213" /></p>
 
